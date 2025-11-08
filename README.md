@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ibrahim Elmajdaoui 👋</h1>
 <p align="center">
   <b>MIAGE Engineering Student • Full-Stack Developer • ERP/CRM Enthusiast</b><br/>
-  Marrakech, Morocco · Open for PFE internship (Feb–Jun 2026, 4–6 months)
+  Marrakech, Morocco · 
 </p>
 
 <p align="center">
