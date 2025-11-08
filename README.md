@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Brahim Elmajdaoui 👋</h1>
 <p align="center">
   <b>MIAGE Engineering Student • Full-Stack Developer • ERP/CRM Enthusiast</b><br/>
-  Marrakech, Morocco
+   Morocco
 </p>
 
 <p align="center">
