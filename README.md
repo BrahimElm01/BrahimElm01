@@ -88,14 +88,7 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 - **Hotel Reservation Desktop App**  
   Real-time availability checks and intuitive UI.  
   <sub>Stack: C# · WPF · ASP.NET · SQL Server</sub>
-
----
-
-## 🎓 Education
-**EMSI Marrakech — Cycle d’Ingénierie Informatique & Réseaux (MIAGE)** *(2023—present)*  
-**EMSI Marrakech — Cycle Préparatoire Intégré** *(2021—2023)*  
-**Baccalauréat Sciences Physiques & Chimiques** *(2021)*
-
+  
 ---
 
 ## 🧾 Certifications (with links)
