@@ -91,7 +91,7 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
   
 ---
 
-## 🧾 Certifications (with links)
+## 🧾 Certifications 
 - IBM — **Introduction to Containers, Kubernetes, and OpenShift**  
   🔗 https://coursera.org/share/fdbd0c057901d99585bf07f05af82e49
 - Microsoft — **Configure and manage virtual networks (Azure)**  
