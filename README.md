@@ -100,13 +100,13 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 
 ## 🧾 Certifications (with links)
 - IBM — **Introduction to Containers, Kubernetes, and OpenShift**  
-  🔗 https://www.coursera.org/learn/introduction-to-containers-kubernetes-openshift
+  🔗 https://coursera.org/share/fdbd0c057901d99585bf07f05af82e49
 - Microsoft — **Configure and manage virtual networks (Azure)**  
-  🔗 https://learn.microsoft.com/training/modules/configure-manage-virtual-networks/
+  🔗 https://coursera.org/share/560f5fbd5a7e2a0c3265f460dc47232a
 - Meta — **React Basics**  
-  🔗 https://www.coursera.org/learn/react-basics
+  🔗 https://coursera.org/share/f2f96ddb90b08581e24acb5c0c1b32d6
 - University of Pennsylvania — **Introduction to Java & Object-Oriented Programming**  
-  🔗 https://www.coursera.org/learn/introduction-to-java-object-oriented-programming
+  🔗 https://coursera.org/share/ac7f277944d35d81a06de47c68d40a1b
 <!-- If you have personal certificate URLs (Coursera verified links, IBM badge, etc.), replace the links above with your unique certificate URLs. -->
 
 ---
