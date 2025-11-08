@@ -46,7 +46,7 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 ---
 
 ### 🏗️ Selected Projects
-##- **Full-Stack — Nobu Hotel**
+## - **Full-Stack — Nobu Hotel**
 Built a web app to digitize hotel services with role-based access.
 Implemented JWT auth with Spring Security.
 Added an AI assistant for FAQs (reservations, services, schedules, offers).
