@@ -46,6 +46,16 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 ---
 
 ### 🏗️ Selected Projects
+- **Full-Stack Intern — Nobu Hotel**
+Built a web app to digitize hotel services with role-based access.
+Implemented JWT auth with Spring Security.
+Added an AI assistant for FAQs (reservations, services, schedules, offers).
+Delivered an admin panel for request tracking, validation, and analytics.
+Stack: React.js • TypeScript • Tailwind • Spring Boot • Spring Security • MySQL • Docker • REST • GitHub • JUnit • Axios • Dialogflow
+
+- **Full-Stack Intern — Cosmos Technologie**
+Designed UX for client/admin, implemented product/catalog/order CRUD and stock management.
+Integrated payment flow with success/failure handling and transaction logging.
 - **Cosmos Technologie – Gaming E-commerce**  
   Full web shop with admin back-office, stock/promo management, CSV export, and secure payments.  
   *Stack:* Java • Spring Boot • React.js • MySQL • Docker
@@ -61,20 +71,6 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 - **Hotel Reservation Desktop App**  
   Real-time availability checks and intuitive UI.  
   *Stack:* C# • WPF • ASP.NET • SQL Server
-
----
-
-### 💼 Experience
-**Full-Stack Intern — Nobu Hotel Marrakech** *(Jul 2025 – Aug 2025)*  
-- Built a web app to digitize hotel services with role-based access.  
-- Implemented **JWT auth** with Spring Security.  
-- Added an **AI assistant** for FAQs (reservations, services, schedules, offers).  
-- Delivered an **admin panel** for request tracking, validation, and analytics.  
-*Stack:* React.js • TypeScript • Tailwind • Spring Boot • Spring Security • MySQL • Docker • REST • GitHub • JUnit • Axios • Dialogflow
-
-**Full-Stack Intern — Cosmos Technologie** *(Jul 2024)*  
-- Designed UX for client/admin, implemented product/catalog/order CRUD and stock management.  
-- Integrated payment flow with success/failure handling and transaction logging.
 
 ---
 
