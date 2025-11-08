@@ -18,7 +18,7 @@
 ### 🧭 About me
 I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end products—from RESTful backends and secure auth to responsive UIs and basic DevOps. I enjoy solving real problems (e-commerce, hotel services, tele-health) and I’m growing toward a **techno-functional ERP/CRM** role.
 
-- 🔎 Looking for: **PFE internship (Feb–Jun 2026)**  
+  
 - 🌐 Languages: **Arabic (native)** · **French (advanced)** · **English (intermediate)**  
 - 📍 Mobility: **Morocco & international**
 
