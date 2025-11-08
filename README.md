@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrahimElm01"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-BrahimElm01-181717?logo=github"></a>
   <a href="mailto:ibrahimelmajdaoui123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ibrahimelmajdaoui123%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ibrahim-elmajdaoui-304bb235b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Elmajdaoui-0A66C2?logo=linkedin&logoColor=white"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=BrahimElm01&style=flat&color=0e75b6">
