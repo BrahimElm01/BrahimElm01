@@ -1,6 +1,6 @@
 <!-- Profile README for Ibrahim Elmajdaoui -->
 
-<h1 align="center">Hi, I'm Ibrahim Elmajdaoui 👋</h1>
+<h1 align="center">Hi, I'm Brahim Elmajdaoui 👋</h1>
 <p align="center">
   <b>MIAGE Engineering Student • Full-Stack Developer • ERP/CRM Enthusiast</b><br/>
   Marrakech, Morocco · 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧭 About me
+## 🧭 About me
 I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end products—from RESTful backends and secure auth to responsive UIs and basic DevOps. I enjoy solving real problems and I’m growing toward a **techno-functional ERP/CRM** role.
 
   
@@ -24,7 +24,7 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 **Languages:** Java • JavaScript/TypeScript • PHP • C# • C++ • HTML/CSS  
 **Backend:** Spring Boot • Java EE • Hibernate/JPA • Express.js • REST APIs • JUnit  
 **Frontend:** React.js • Tailwind CSS  
@@ -45,8 +45,8 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 
 ---
 
-### 🏗️ Selected Projects
-## - **Full-Stack — Nobu Hotel**
+## 🏗️ Selected Projects
+ - **Full-Stack — Nobu Hotel**
 Built a web app to digitize hotel services with role-based access.
 Implemented JWT auth with Spring Security.
 Added an AI assistant for FAQs (reservations, services, schedules, offers).
@@ -71,14 +71,14 @@ Stack: React.js • TypeScript • Tailwind • Spring Boot • Spring Security 
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 **EMSI Marrakech — Cycle d’Ingénierie Informatique & Réseaux, option MIAGE** *(2023—present)*  
 **EMSI Marrakech — Cycle Préparatoire Intégré** *(2021—2023)*  
 **Baccalauréat Sciences Physiques & Chimiques** *(2021)*
 
 ---
 
-### 🧾 Certifications
+## 🧾 Certifications
 - **Introduction to Containers: Docker, Kubernetes & OpenShift** — IBM  
 - **Virtual Networks in Azure** — Microsoft  
 - **React Basics** — Meta  
@@ -87,7 +87,7 @@ Stack: React.js • TypeScript • Tailwind • Spring Boot • Spring Security 
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrahimElm01&show_icons=true&hide_title=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimElm01" />
@@ -98,6 +98,6 @@ Stack: React.js • TypeScript • Tailwind • Spring Boot • Spring Security 
 
 ---
 
-### 🤝 Let’s collaborate
+## 🤝 Let’s collaborate
 If your team works on ERP/CRM, e-commerce, hospitality, or tele-health, I’d love to contribute.  
 **📧** ibrahimelmajdaoui123@gmail.com · **💼** <a href="https://www.linkedin.com/in/ibrahim-elmajdaoui-304bb235b">LinkedIn</a>
