@@ -135,3 +135,14 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 ## 🤝 Let’s collaborate
 Interested in working together? Contact me!
 **📧** ibrahimelmajdaoui123@gmail.com · **💼** <a href="https://www.linkedin.com/in/ibrahim-elmajdaoui-304bb235b">LinkedIn</a>
+
+---
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrahimElm01&theme=react-dark&radius=8&area=true">
+</p>
+
+<!-- Clean footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=95&color=0:0ea5e9,100:0F172A&section=footer"/>
+</p>
