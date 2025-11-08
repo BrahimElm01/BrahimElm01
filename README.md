@@ -133,5 +133,5 @@ I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end product
 ---
 
 ## 🤝 Let’s collaborate
-If your team works on ERP/CRM, e-commerce, hospitality, or tele-health, I’d love to contribute.  
+Interested in working together? Contact me!
 **📧** ibrahimelmajdaoui123@gmail.com · **💼** <a href="https://www.linkedin.com/in/ibrahim-elmajdaoui-304bb235b">LinkedIn</a>
