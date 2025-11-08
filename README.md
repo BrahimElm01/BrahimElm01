@@ -19,7 +19,7 @@
 I’m a 5th-year MIAGE student at **EMSI Marrakech** building end-to-end products—from RESTful backends and secure auth to responsive UIs and basic DevOps. I enjoy solving real problems and I’m growing toward a **techno-functional ERP/CRM** role.
 
   
-- 🌐 Languages: **Arabic (native)** · **French (advanced)** · **English (intermediate)**  
+- 🌐 Languages: **Arabic (native)** · **French (advanced)** · **English (advanced)**  
 - 📍 Mobility: **Morocco & international**
 
 ---
